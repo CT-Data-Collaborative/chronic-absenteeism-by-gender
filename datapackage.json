@@ -1,7 +1,7 @@
 {
   "name": "chronic-absenteeism-by-gender",
   "datapackage_version": "1.0-beta.18",
-  "title": "Chronic-Absenteeism-by-Gender",
+  "title": "Chronic Absenteeism by Gender",
   "description": "Chronic Absenteeism reports the percentage of chronically absent students during a school year, per subgroup.",
   "version": "1.0",
   "licenses": [{
