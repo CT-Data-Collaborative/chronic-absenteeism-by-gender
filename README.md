@@ -1,8 +1,6 @@
 Chronic-Absenteeism-by-Gender
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/chronic-absenteeism-by-gender.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/chronic-absenteeism-by-gender)
-
-Chronic Absenteeism reports the percentage of chronically absent students during a school year, per subgroup.
+Chronic Absenteeism reports the percentage of chronically absent students during a school year, per gender.
 
 Data Source: <http://edsight.ct.gov/>
 
